@@ -1,0 +1,13 @@
+.descriptionContainer {
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.descriptionContainer h1 {
+  margin-bottom: 10px;
+}
+
+.descriptionContainer p {
+  margin-bottom: 0;
+  font-style: oblique;
+}

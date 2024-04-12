@@ -1,0 +1,15 @@
+.feedbackContainer {
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.feedbackContainer h2 {
+  color: #8b4513;
+}
+
+.feedbackContainer p {
+  font-size: 24px;
+  margin: 5px 0;
+  color: #000;
+}
